@@ -54,3 +54,11 @@ console.log(arr);
 >
 > > I studied in Proweb three months and now I'm trainee in Digital Panda
 > > _Computer Sciense college_ - In Uzbekistan in Navai
+
+## **Languages**
+
+#### \* Uzbek (native-language)
+
+#### \* Russian
+
+#### \* English (A2)
