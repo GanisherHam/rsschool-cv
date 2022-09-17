@@ -46,3 +46,18 @@ for(i = 0; i  Infinity; i++){
 }
 console.log(arr);
 ```
+
+## Education
+
+ _PROWEB_
+
+  I studied in Proweb three months and I was trainee in Digital Panda
+  Now I'm working like Mentor in Codify academy
+  _Computer Sciense college_ - In Uzbekistan in Navai
+## Languages
+
+####  Uzbek (native-language)
+
+####  Russian
+
+####  English (A2)
